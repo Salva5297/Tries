@@ -1,0 +1,38 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.europa.eu/88u/catalog/8940890f8f90df809d> a dcat:Catalog;
+  dct:description "The EUropean Research Information Ontology (EURIO) conceptualises, formally encodes and makes available in an open, structured and machine-readable format data about resarch projects funded by the EU's framework programmes for research and innovation.";
+  dct:identifier "8940890f8f90df809d";
+  dct:publisher <http://data.europa.eu/88u/publisher/8940890f8f90df809d>;
+  dct:title "EURIO: EUropean Research Information Ontology";
+  dcat:dataset <http://data.europa.eu/88u/dataset/8940890f8f90df809d> .
+
+<http://data.europa.eu/88u/creator/8940890f8f90df809d> a foaf:Agent;
+  foaf:name "everis Spain, S.L.U" .
+
+<http://data.europa.eu/88u/dataset/8940890f8f90df809d> a dcat:Dataset;
+  dct:creator <http://data.europa.eu/88u/creator/8940890f8f90df809d>;
+  dct:description "The EUropean Research Information Ontology (EURIO) conceptualises, formally encodes and makes available in an open, structured and machine-readable format data about resarch projects funded by the EU's framework programmes for research and innovation.";
+  dct:identifier "8940890f8f90df809d";
+  dct:publisher <http://data.europa.eu/88u/publisher/8940890f8f90df809d>;
+  dct:title "EURIO: EUropean Research Information Ontology";
+  owl:versionInfo "v1.1 - 15 October 2021";
+  dcat:distribution <http://data.europa.eu/88u/distribution/8940890f8f90df809d> .
+
+<http://data.europa.eu/88u/distribution/8940890f8f90df809d> a dcat:Distribution;
+  dct:license <https://joinup.ec.europa.eu/category/licence/isa-open-metadata-licence-v11>;
+  dct:mediaType <https://www.iana.org/assignments/media-types/text%2Fturtle#Resource>;
+  dct:modified "2021-08-20"^^<http://www.w3.org/2001/XMLSchema#date>;
+  dcat:accessURL <https://op.europa.eu/o/opportal-service/euvoc-download-handler?cellarURI=http%3A%2F%2Fpublications.europa.eu%2Fresource%2Fcellar%2Fffb5d6d8-2daa-11ec-bd8e-01aa75ed71a1.0001.01%2FDOC_1&fileName=EURIO.rdf> .
+
+<http://data.europa.eu/88u/publisher/8940890f8f90df809d> a foaf:Agent;
+  skos:inScheme <http://publications.europa.eu/resource/authority/corporate-body>;
+  foaf:name "Publications Office of the European Commission." .
+
+<https://joinup.ec.europa.eu/category/licence/isa-open-metadata-licence-v11> a dct:LicenseDocument;
+  skos:inScheme <http://publications.europa.eu/resource/authority/licence> .
