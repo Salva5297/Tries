@@ -1,0 +1,12 @@
+{
+  "http://data.europa.eu/s66/ontology#Project": {
+    "uri": "http://data.europa.eu/s66/ontology#Project",
+    "name": "project",
+    "properties": [{
+        "uri": "http://data.europa.eu/s66/ontology#title",
+        "name": "title",
+        "type": "str"
+      }
+    ]
+  }
+}
