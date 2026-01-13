@@ -1,0 +1,714 @@
+{
+   "id":152756,
+   "procurementProjectId":104668,
+   "parentId":152200,
+   "noticeNumber":"2025-152756",
+   "reducedTimeLimitsForReceiptOfTenders":false,
+   "corrigendumAdditionalInformation":[
+      "Tarjouspyynnölle lisätty automaatuosuunnitelmat. Liite 4.2.1 Automaatiosuunnitelmat. "
+   ],
+   "creatorSystem":"Cloudia Kilpailutus",
+   "type":9902,
+   "project":{
+      "id":104668,
+      "title":"Vapaa-aikakeskuksen vanhimman osan peruskorjaus, vaihe 2",
+      "contractType":4,
+      "procurementCategory":1,
+      "referenceNumber":"PIR/903/5102/2023",
+      "jointProcurement":false,
+      "procurementLaw":[
+         
+      ],
+      "centralPurchasing":false,
+      "coPurchasers":[
+         
+      ],
+      "validationState":0,
+      "organisation":{
+         "id":"2adad07f-bbfd-4dd4-2cf9-08d78deb351a",
+         "information":{
+            "officialName":"Pirkkalan kunta",
+            "nationalRegistrationNumber":"0152084-1",
+            "nutsCodes":[
+               "FI197"
+            ],
+            "postalAddress":{
+               "streetAddress":"PL 1001",
+               "postalCode":"33961",
+               "town":"Pirkkala",
+               "country":"FI"
+            },
+            "telephoneNumber":"+358 503625687",
+            "email":"yhdyskuntatoimisto@pirkkala.fi",
+            "contactPerson":"Nella  Ahola",
+            "mainUrl":"http://www.pirkkala.fi",
+            "validationState":0
+         },
+         "contractingAuthorityType":4,
+         "contractingType":0,
+         "mainActivity":1,
+         "mainActivityUtilities":0,
+         "validationState":0,
+         "dataSource":0,
+         "identifierMissing":false,
+         "vhsStatus":0
+      },
+      "state":1,
+      "defenceWorks":0,
+      "defenceSupplies":0,
+      "publish":2,
+      "agricultureWorks":0,
+      "isPrivate":false,
+      "isConcluded":false,
+      "tendering":0
+   },
+   "lotsInfo":{
+      "divisionLots":false,
+      "lotsSubmittedFor":0,
+      "lotsSubmittedForQuantity":0,
+      "lotsMaxAwarded":false,
+      "lotsMaxAwardedQuantity":0,
+      "lotCombinationPossible":false,
+      "lotCombinationPossibleDescription":[
+         
+      ],
+      "validationState":0
+   },
+   "objectDescriptions":[
+      {
+         "mainCpvCode":{
+            "code":"45000000",
+            "name":"Rakennustyöt",
+            "vocCodes":[
+               
+            ]
+         },
+         "quantityOrScope":[
+            
+         ],
+         "additionalCpvCodes":[
+            
+         ],
+         "nutsCodes":[
+            "FI197"
+         ],
+         "mainsiteplaceWorksDelivery":[
+            "Pirkkala"
+         ],
+         "descrProcurement":[
+            "Pirkkalan vapaa-aikakeskuksen vanhimman osan peruskorjaus tarjouspyynnön ja sen liitteiden mukaisesti.",
+            "",
+            "Kohde:",
+            "Pirkkalan Vapaa-aikakeskus",
+            "Urheilutie 10, 33960 Pirkkala",
+            "",
+            "Urakkamuotona kokonaisurakka, jossa valittu urakoitsija toimii pääurakoitsijana. Kokonaisurakkaan sisältyvät kaikki työt asiakirjaluettelossa mainittujen suunnitelmien mukaisesti, työmaapalveluista vastaavan urakoitsijan velvoitteet ja pääurakoitsijan velvoitteet mukaan lukien työmaan johtovelvollisuudet.",
+            "",
+            "Suunniteltu urakka-aika:",
+            "Työt saa aloittaa päätöksenteon ja urakkasopimuksen allekirjoituksen jälkeen 7.4.2025 alkaen ja töiden tulee olla valmiit viimeistään 31.10.2025.",
+            "",
+            "Tarkemmat tiedot on kirjattu liitteenä olevaan urakka-ohjelmaan."
+         ],
+         "disagreeAwardCriteriaToBePublished":false,
+         "awardCriteria":{
+            "criterionTypes":4,
+            "qualityCriteria":[
+               
+            ],
+            "costCriteria":[
+               
+            ],
+            "priceCriterion":{
+               
+            },
+            "criterion":[
+               
+            ],
+            "criteriaStatedInProcurementDocuments":false
+         },
+         "estimatedValue":{
+            "type":0
+         },
+         "timeFrame":{
+            "type":3,
+            "beginDate":"2025-04-07T00:00:00",
+            "endDate":"2025-10-31T00:00:00",
+            "canBeRenewed":false
+         },
+         "candidateNumberRestrictions":{
+            "envisagedNumber":0,
+            "envisagedMinimumNumber":0,
+            "envisagedMaximumNumber":0,
+            "selected":0
+         },
+         "optionsAndVariants":{
+            "variantsWillBeAccepted":false,
+            "partialOffersWillBeAccepted":false,
+            "options":true,
+            "optionsDescription":[
+               "Urakkaan sisältyy kaksi optiotyötä. Optiot lasketaan mukaan kokonaishintaan, joka vaikuttaa vertailuun. Optioiden hinnat eritellään tarjouksessa, ja ne suoritetaan urakan yhteydessä, mikäli tilaaja niin päätää ja Vapaa-aikakeskuksen vanhimman osan peruskorjaukselle varattu määräraha riittää.",
+               "",
+               "Optio 1: Kuntosalin katon ulkopuolinen kunnostaminen sekä tarjouspyynnön mukaiset tiivistyskorjaukset. Katon kunnostussalue merkitty sinisellä urakkaohjelman sivun 2 kuvaan. Tiivistyskorjaukset tarjouspyynnön liitteenä olevien suunnitelmien mukaisesti. ",
+               "Optio 2: Rakennuksen Urheilutien puoleisen julkisivun kunnostaminen, korjaus ja maalaaminen tarjouspyyntöasiakirjojen mukaisesti. Alue merkitty punaisella urakkaohjelman sivun 2 kuvaan.",
+               ""
+            ],
+            "optionType":0
+         },
+         "tendersMustBePresentedAsElectronicCatalogs":false,
+         "euFunds":{
+            "procurementRelatedToEuProgram":false
+         },
+         "additionalInformation":[
+            "Tarjoukset käsitellään kaksivaiheisena. Ensin varmistetaan, että tarjoaja täyttää asetetut tekniset ja taloudelliset vaatimukset sekä varmistetaan, että poissulkuperusteita ei ole. Toisessa vaiheessa hyväksytyistä tarjouksista valitaan kokonaishinnaltaan edullisin. Laadulliset näkökohdat on huomioitu tarjouspyynnön vähimmäisvaatimuksissa."
+         ],
+         "awardContract":{
+            "contractAwarded":0,
+            "awardedContracts":[
+               
+            ]
+         },
+         "validationState":0
+      }
+   ],
+   "communicationInformation":{
+      "procurementDocumentsAvailable":1,
+      "procurementDocumentsUrl":"https://tarjouspalvelu.fi/pirkkala?id=540632&tpk=827e87fe-028c-4fcc-a0df-1296d7392421",
+      "additionalInformation":1,
+      "additionalInformationAddress":{
+         "officialName":"Pirkkalan kunta",
+         "nationalRegistrationNumber":"0152084-1",
+         "nutsCodes":[
+            "FI197"
+         ],
+         "postalAddress":{
+            "streetAddress":"PL 1001",
+            "postalCode":"33961",
+            "town":"Pirkkala",
+            "country":"FI"
+         },
+         "telephoneNumber":"+358 503625687",
+         "email":"yhdyskuntatoimisto@pirkkala.fi",
+         "contactPerson":"Nella  Ahola",
+         "mainUrl":"http://www.pirkkala.fi",
+         "validationState":0
+      },
+      "otherAddressForProcurementDocuments":{
+         "nutsCodes":[
+            
+         ],
+         "postalAddress":{
+            
+         },
+         "validationState":0
+      },
+      "sendTendersOption":1,
+      "electronicAddressToSendTenders":"https://tarjouspalvelu.fi/pirkkala?id=540632&tpk=827e87fe-028c-4fcc-a0df-1296d7392421",
+      "addressToSendTenders":{
+         "nutsCodes":[
+            
+         ],
+         "postalAddress":{
+            
+         },
+         "validationState":0
+      },
+      "electronicCommunicationRequiresSpecialTools":false,
+      "documentsEntirelyInHilma":false,
+      "specsAndAdditionalDocuments":0,
+      "validationState":0
+   },
+   "contactPerson":{
+      "name":"Nella  Ahola",
+      "email":"yhdyskuntatoimisto@pirkkala.fi",
+      "phone":"+358 503625687"
+   },
+   "procurementObject":{
+      "shortDescription":[
+         "Pirkkalan vapaa-aikakeskuksen vanhimman osan peruskorjaus tarjouspyynnön ja sen liitteiden mukaisesti."
+      ],
+      "estimatedValue":{
+         "type":2,
+         "minValue":700000.00,
+         "maxValue":1000000.00,
+         "currency":"EUR",
+         "disagreeToBePublished":false
+      },
+      "estimatedValueCalculationMethod":[
+         
+      ],
+      "mainCpvCode":{
+         "code":"45000000",
+         "name":"Rakennustyöt",
+         "vocCodes":[
+            
+         ]
+      },
+      "defence":{
+         "nutsCodes":[
+            
+         ],
+         "frameworkAgreement":{
+            "includesFrameworkAgreement":false,
+            "includesConclusionOfFrameworkAgreement":false,
+            "frameworkAgreementType":0,
+            "frameworkEnvisagedType":0,
+            "includesDynamicPurchasingSystem":false,
+            "dynamicPurchasingSystemInvolvesAdditionalPurchasers":false,
+            "dynamicPurchasingSystemWasTerminated":false,
+            "estimatedTotalValue":{
+               "type":0
+            },
+            "duration":{
+               "type":0,
+               "canBeRenewed":false
+            }
+         },
+         "subcontract":{
+            "tendererHasToIndicateShare":false,
+            "tendererHasToIndicateChange":false,
+            "caMayOblige":false,
+            "successfulTenderer":false,
+            "successfulTendererToSpecify":false
+         },
+         "optionsAndVariants":{
+            "variantsWillBeAccepted":false,
+            "partialOffersWillBeAccepted":false,
+            "options":false,
+            "optionType":0
+         },
+         "totalQuantityOrScope":{
+            "type":0
+         },
+         "renewals":{
+            "canBeRenewed":false
+         },
+         "timeFrame":{
+            "type":0,
+            "canBeRenewed":false
+         }
+      },
+      "validationState":0
+   },
+   "conditionsInformation":{
+      "professionalSuitabilityRequirements":[
+         
+      ],
+      "economicCriteriaToParticipate":true,
+      "economicCriteriaDescription":[
+         
+      ],
+      "economicRequiredStandards":[
+         
+      ],
+      "technicalCriteriaToParticipate":true,
+      "technicalCriteriaDescription":[
+         
+      ],
+      "technicalRequiredStandards":[
+         
+      ],
+      "rulesForParticipation":[
+         
+      ],
+      "restrictedToShelteredWorkshop":false,
+      "restrictedToShelteredProgram":false,
+      "reservedOrganisationServiceMission":false,
+      "depositsRequired":[
+         
+      ],
+      "financingConditions":[
+         
+      ],
+      "legalFormTaken":[
+         
+      ],
+      "qualificationSystemConditions":[
+         
+      ],
+      "ciriteriaForTheSelectionOfParticipants":[
+         
+      ],
+      "executionOfServiceIsReservedForProfession":false,
+      "referenceToRelevantLawRegulationOrProvision":[
+         
+      ],
+      "participationIsReservedForProfession":false,
+      "indicateProfession":[
+         
+      ],
+      "contractPerformanceConditions":[
+         
+      ],
+      "obligationToIndicateNamesAndProfessionalQualifications":false,
+      "validationState":0
+   },
+   "conditionsInformationDefence":{
+      "depositsRequired":[
+         
+      ],
+      "financingConditions":[
+         
+      ],
+      "legalFormTaken":[
+         
+      ],
+      "otherParticularConditions":[
+         
+      ],
+      "personalSituationOfEconomicOperators":[
+         
+      ],
+      "personalSituationOfSubcontractors":[
+         
+      ],
+      "economicCriteriaOfEconomicOperators":[
+         
+      ],
+      "economicCriteriaOfEconomicOperatorsMinimum":[
+         
+      ],
+      "economicCriteriaOfSubcontractors":[
+         
+      ],
+      "economicCriteriaOfSubcontractorsMinimum":[
+         
+      ],
+      "technicalCriteriaOfEconomicOperators":[
+         
+      ],
+      "technicalCriteriaOfEconomicOperatorsMinimum":[
+         
+      ],
+      "technicalCriteriaOfSubcontractors":[
+         
+      ],
+      "technicalCriteriaOfSubcontractorsMinimum":[
+         
+      ],
+      "restrictedToShelteredWorkshops":false,
+      "restrictedToShelteredProgrammes":false,
+      "restrictedToParticularProfession":false,
+      "restrictedToParticularProfessionLaw":[
+         
+      ],
+      "staffResponsibleForExecution":false,
+      "validationState":0
+   },
+   "conditionsInformationNational":{
+      "participantSuitabilityCriteria":[
+         
+      ],
+      "requiredCertifications":[
+         
+      ],
+      "additionalInformation":[
+         
+      ],
+      "validationState":0,
+      "reservedForShelteredWorkshopOrProgram":false
+   },
+   "complementaryInformation":{
+      "isRecurringProcurement":false,
+      "estimatedTimingForFurtherNoticePublish":[
+         
+      ],
+      "electronicOrderingUsed":false,
+      "electronicInvoicingUsed":false,
+      "electronicPaymentUsed":false,
+      "additionalInformation":[
+         
+      ],
+      "validationState":0
+   },
+   "datePublished":"2025-01-23T08:09:19.8961802",
+   "state":2,
+   "tedPublishState":0,
+   "tedValidationErrors":[
+      
+   ],
+   "procedureInformation":{
+      "procedureType":1,
+      "acceleratedProcedure":false,
+      "justificationForAcceleratedProcedure":[
+         
+      ],
+      "contestType":0,
+      "frameworkAgreement":{
+         "includesFrameworkAgreement":false,
+         "includesConclusionOfFrameworkAgreement":false,
+         "frameworkAgreementType":0,
+         "frameworkEnvisagedType":0,
+         "includesDynamicPurchasingSystem":false,
+         "dynamicPurchasingSystemInvolvesAdditionalPurchasers":false,
+         "dynamicPurchasingSystemWasTerminated":false,
+         "estimatedTotalValue":{
+            "type":0
+         },
+         "duration":{
+            "type":0,
+            "canBeRenewed":false
+         }
+      },
+      "reductionRecourseToReduceNumberOfSolutions":false,
+      "reserveRightToAwardWithoutNegotiations":false,
+      "electronicAuctionWillBeUsed":false,
+      "additionalInformationAboutElectronicAuction":[
+         
+      ],
+      "namesOfParticipantsAlreadySelected":[
+         
+      ],
+      "procurementGovernedByGPA":false,
+      "criteriaForEvaluationOfProjects":[
+         
+      ],
+      "disagreeCriteriaForEvaluationOfProjectsPublish":false,
+      "mainFeaturesAward":[
+         
+      ],
+      "national":{
+         "transparencyType":0,
+         "limitedNumberOfParticipants":false,
+         "numberOfParticipants":0
+      },
+      "validationState":0
+   },
+   "tenderingInformation":{
+      "tendersOrRequestsToParticipateDueDateTime":"2025-02-10T12:00:00",
+      "languages":[
+         "FI"
+      ],
+      "tendersMustBeValidOption":2,
+      "tendersMustBeValidForMonths":3,
+      "tenderOpeningConditions":{
+         "openingDateAndTime":"2025-02-10T12:15:00"
+      },
+      "defence":{
+         "previousPublicationExists":false,
+         "hasPreviousContractNoticeOjsNumber":false,
+         "hasPreviousExAnteOjsNumber":false,
+         "payableDocuments":false,
+         "languageType":0,
+         "languages":[
+            
+         ],
+         "otherLanguage":false
+      },
+      "estimatedExecutionTimeFrame":{
+         "type":0,
+         "canBeRenewed":false
+      },
+      "validationState":0
+   },
+   "rewardsAndJury":{
+      "prizeAwarded":false,
+      "numberAndValueOfPrizes":[
+         
+      ],
+      "detailsOfPayments":[
+         
+      ],
+      "serviceContractAwardedToWinner":false,
+      "decisionOfTheJuryIsBinding":false,
+      "namesOfSelectedMembersOfJury":[
+         
+      ],
+      "validationState":0
+   },
+   "resultsOfContest":{
+      "contestWasTerminated":false,
+      "noPrizeType":0,
+      "originalNoticeSentVia":0,
+      "participantsContemplated":0,
+      "participantsSme":0,
+      "participantsForeign":0,
+      "disagreeParticipantCountPublish":false,
+      "winners":[
+         
+      ],
+      "disagreeWinnersPublish":false,
+      "disagreeValuePublish":false,
+      "validationState":0
+   },
+   "attachments":[
+      
+   ],
+   "hasAttachments":false,
+   "changes":[
+      
+   ],
+   "isCorrigendum":true,
+   "isMigrated":false,
+   "isCancelled":false,
+   "isContractAwardCancellationNotice":false,
+   "cancelledReason":[
+      
+   ],
+   "isLatest":true,
+   "language":"FI",
+   "proceduresForReview":{
+      "reviewBody":{
+         "officialName":"Markkinaoikeus",
+         "nutsCodes":[
+            
+         ],
+         "postalAddress":{
+            "streetAddress":"Radanrakentajantie 5",
+            "postalCode":"00520",
+            "town":"Helsinki",
+            "country":"FI"
+         },
+         "telephoneNumber":"+358 295643300",
+         "email":"markkinaoikeus@oikeus.fi",
+         "mainUrl":"http://www.oikeus.fi/markkinaoikeus",
+         "validationState":0
+      },
+      "reviewProcedure":[
+         
+      ],
+      "validationState":0
+   },
+   "attachmentInformation":{
+      "description":[
+         
+      ],
+      "links":[
+         
+      ],
+      "validationState":0
+   },
+   "rtpAttachmentInformation":{
+      "description":[
+         
+      ],
+      "links":[
+         
+      ],
+      "validationState":0
+   },
+   "pcftAttachmentInformation":{
+      "description":[
+         
+      ],
+      "links":[
+         
+      ],
+      "validationState":0
+   },
+   "modifications":{
+      "additionalCpvCodes":[
+         
+      ],
+      "nutsCodes":[
+         
+      ],
+      "mainsiteplaceWorksDelivery":[
+         
+      ],
+      "descrProcurement":[
+         
+      ],
+      "timeFrame":{
+         "type":0,
+         "canBeRenewed":false
+      },
+      "justificationForDurationOverFourYears":[
+         
+      ],
+      "justificationForDurationOverEightYears":[
+         
+      ],
+      "totalValue":{
+         
+      },
+      "awardedToGroupOfEconomicOperators":false,
+      "contractors":[
+         
+      ],
+      "description":[
+         
+      ],
+      "reason":0,
+      "reasonDescriptionEconomic":[
+         
+      ],
+      "reasonDescriptionCircumstances":[
+         
+      ],
+      "increaseBeforeModifications":{
+         
+      },
+      "increaseAfterModifications":{
+         
+      },
+      "validationState":0
+   },
+   "contractAwardsDefence":[
+      {
+         "numberOfTenders":{
+            "disagreeTenderInformationToBePublished":false,
+            "total":0
+         },
+         "contractor":{
+            "nutsCodes":[
+               
+            ],
+            "postalAddress":{
+               
+            },
+            "isSmallMediumEnterprise":false,
+            "validationState":0
+         },
+         "estimatedValue":{
+            
+         },
+         "contractValueType":0,
+         "finalTotalValue":{
+            
+         },
+         "lowestOffer":{
+            
+         },
+         "highestOffer":{
+            
+         },
+         "annualOrMonthlyValue":{
+            "type":0,
+            "canBeRenewed":false
+         },
+         "likelyToBeSubcontracted":false,
+         "valueOfSubcontract":{
+            
+         },
+         "valueOfSubcontractNotKnown":false,
+         "subcontractingDescription":[
+            
+         ],
+         "allOrCertainSubcontractsWillBeAwarded":false,
+         "shareOfContractWillBeSubcontracted":false,
+         "validationState":0
+      }
+   ],
+   "hilmaStatistics":{
+      "energyEfficiencyConsidered":false,
+      "lowCarbon":false,
+      "circularEconomy":false,
+      "biodiversity":false,
+      "sustainableFoodProduction":false,
+      "justWorkingConditions":true,
+      "employmentCondition":false,
+      "codeOfConduct":true,
+      "innovationConsidered":false,
+      "solutionNewToBuyer":false,
+      "solutionNewToMarketOrIndustry":false,
+      "smeParticipationConsidered":true,
+      "validationState":0
+   },
+   "isPrivateSmallValueProcurement":false,
+   "espdRequestReferences":[
+      
+   ],
+   "hilmaSubmissionDate":"2025-01-23T08:09:19.8645396",
+   "dateCreated":"2025-01-23T08:09:19.8412276",
+   "dateModified":"2025-01-23T08:09:19.9038917"
+}
